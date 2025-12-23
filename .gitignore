@@ -1,0 +1,8 @@
+# .gitignore for Chrome Extension
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+dist/
+.env
+.vscode/
